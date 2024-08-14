@@ -1,0 +1,32 @@
+# age=45
+# print(type)
+
+# price=45.50
+# print(type(price))
+
+# real_img = 400 + 120j
+# print(type(real_img))
+
+# not_active = False
+# print(type(not_active))
+
+
+# name = "pratik"
+# print(type(name))
+
+# names = ['m', 'd', 'f', 'q', 'c']
+# print(type(names))
+
+# nums = (1,2,3)
+# print(type(nums))
+
+# car = {"brand": "bmw",
+#        "price": "70L"}
+# print(type(car))
+
+# names = {'m', 'd', 'f', 'q', 'c'}
+# print(type(names))
+
+
+
+
